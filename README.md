@@ -1,6 +1,6 @@
 SECTION 1 — Supabase-ready SQL schema (put in schema.sql)
 
-SECTION 2 — RLS & Policies for leads
+SECTION 2 — RLS & Policies for leads(schema2.sql)
 Enable RLS and then create two policies: SELECT and INSERT. Paste into SQL (e.g., same schema.sql or run separately in Supabase SQL editor).
 
 SECTION 3 — Supabase Edge Function (TypeScript)
